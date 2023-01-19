@@ -1,0 +1,45 @@
+/* p.red {
+    color: red;
+}
+
+p.success {
+    color: green;
+}
+
+p.success.feedback {
+    border: 1px dashed blue;
+}
+
+#content {
+    background-color: #ebebeb;
+    padding: 20px;;
+} */
+
+/* div .red {
+    color: red;
+} */
+
+/* a[href="aa"] {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+
+div {
+    color: lightcoral;
+    margin: 40px;
+    border: 1px solid grey;
+    font-weight: bold;
+}
+
+p {
+    border: inherit;
+    margin: inherit;
+    color: red;
+}
+
+p {
+    color: orange;
+}

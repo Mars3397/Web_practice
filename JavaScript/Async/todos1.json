@@ -1,0 +1,17 @@
+[
+    {
+        "text" : "play mariokart1", 
+        "author" : "shaun1", 
+        "point" : true
+    }, 
+    {
+        "text" : "buy some bread1", 
+        "author" : "Mario1", 
+        "point" : true
+    }, 
+    {
+        "text" : "do the plumming1", 
+        "author" : "luigi1", 
+        "point" : true
+    }
+]

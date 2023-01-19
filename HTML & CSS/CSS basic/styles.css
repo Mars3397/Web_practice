@@ -1,0 +1,51 @@
+h1 {
+    color: orange;
+    background-color: slategray;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+
+/* p {
+    color: slategray;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 3;
+    column-gap: 60px;
+} */
+
+ul {
+    border-left: 2px dotted purple;
+    border-right: 2px dashed blue;
+    border-top: 2px solid green;
+    border-bottom: 2px solid orange;
+    
+    /* border: 4px solid crimson; */
+
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: crimson; */
+}
+
+/* li {
+    list-style-type: square;
+    text-shadow: 1px 1px lightgray;
+    text-shadow: 2px 2px #bbcebd;
+} */
+
+span {
+    /* display: block; */
+    margin: 20px;
+    padding: 20px;
+}
+
+div {
+    /* display: inline; */
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+}
+
+ 
